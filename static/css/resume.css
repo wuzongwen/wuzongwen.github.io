@@ -274,7 +274,7 @@ section .title.about-me::before {
     width: 30%;
 }
 .w-experience-content .work-content {
-    width: 69%;
+    width: 80%;
 }
 .w-experience-content .logo, .w-experience-content .work-content {
     display: inline-block;
