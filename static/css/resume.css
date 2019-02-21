@@ -47,6 +47,15 @@ html p {
     text-decoration: initial;
     cursor: pointer;
 }
+.center {
+    text-align: center;
+}
+.ml15 {
+    margin-left: 15%
+}
+.ml28 {
+    margin-left: 28%
+}
 .pmessage {
     position: relative;
 }
