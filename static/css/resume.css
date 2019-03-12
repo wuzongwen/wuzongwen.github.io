@@ -202,7 +202,7 @@ section .title.about-me::before {
     margin-top: 50px;
 }
 .project-detail .col-3-abs:not(.endline) {
-    margin-right: 20px;
+    margin-right: 15px;
 }
 .project-detail .button {
     width: 225px;
@@ -221,6 +221,7 @@ section .title.about-me::before {
 }
 .project-detail .link-to {
     position: relative;
+    margin-top:10px;
 }
 .project-detail .link-to:hover .shadow {
     position: absolute;
